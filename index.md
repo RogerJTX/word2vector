@@ -9,7 +9,7 @@ Main Notes Website
 https://rogerjtx.github.io/
 
 Word2Vector [ELMo, Bert, ALBert]    
-https://rogerjtx.github.io/Word2Vector.io/
+[Word2Vector Part](https://rogerjtx.github.io/Word2Vector.io/)
 
 Topbase Knowledge Graph Paper Reproduction And Technical Documentation  
 url:
