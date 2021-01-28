@@ -1,37 +1,119 @@
-## Welcome to GitHub Pages
+## Welcome to RogerJTX's Notes
 
 You can use the [editor on GitHub](https://github.com/RogerJTX/word2vector/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Word To Vector Part
 
-### Markdown
+# Programming Notes Start
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+----------------------------------------------
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Study Graph
 
-[Link](url) and ![Image](src)
-```
+![](Word2Vector/index_images/43f3fcf9.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](index_images/71964738.png)
 
-### Jekyll Themes
+# 逻辑回归 Logistic Function
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RogerJTX/word2vector/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+监督学习：分为  回归问题（返回一个值）和分类问题（返回一个分类）
+无监督学习：聚类
+
+![](index_images/837f9f4a.png)
+           
+![](index_images/dc41cd8e.png)
+
+![](index_images/e2d3d31e.png)
+
+![](index_images/5d859643.png)
+
+逻辑函数+线性回归
+
+![](index_images/9eede0fc.png)
+
+![](index_images/040330f2.png)
+
+![](index_images/2c548ff3.png)
+
+![](index_images/5c57ef3c.png)
+
+![](index_images/3edf11b5.png)
+
+![](index_images/635d778c.png)
+
+![](index_images/7cb06c3d.png)
+
+![](index_images/d946816c.png)
+
+看决策边界是不是线性的
+
+![](index_images/efbcdc8b.png)
+
+![](index_images/72e244e2.png)
+
+![](index_images/0825b126.png)
+
+![](index_images/fe2d27cb.png)
+
+![](index_images/1eea123f.png)
+
+![](index_images/a89bef18.png)
+
+![](index_images/b0737275.png)
+
+![](index_images/683fd4a9.png)
+
+![](index_images/1a49b563.png)
+
+![](index_images/17e8bb65.png)
+
+![](index_images/178f481b.png)
+
+
+# 梯度下降 Gradient Descent
+
+![](index_images/8fa5accd.png)
+
+![](index_images/d19c154e.png)
+
+步长要合理
+
+![](index_images/92c6acfa.png)
+
+![](index_images/f5d545b1.png)
+
+![](index_images/af31419c.png)
+
+![](index_images/1523a705.png)
+
+![](index_images/38e6c105.png)
+
+![](index_images/34318c27.png)
+
+预测值和真实值会不断接近
+
+下面是b的求导：
+
+![](index_images/74e7f03a.png)
+
+![](index_images/d209245e.png)
+
+![](index_images/d4c2c577.png)
+
+![](index_images/37fce88e.png)
+
+# 随机梯度下降法
+
+![](index_images/f86c23d2.png)
+
+mini-batch
+
+![](index_images/a0df9643.png)
+
