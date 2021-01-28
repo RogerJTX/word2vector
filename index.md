@@ -6,10 +6,10 @@ You can use the [editor on GitHub](https://github.com/RogerJTX/word2vector/edit/
 
 
 Main Notes Website  
-url: https://rogerjtx.github.io/
+https://rogerjtx.github.io/
 
 Word2Vector [ELMo, Bert, ALBert]    
-url: https://rogerjtx.github.io/Word2Vector.io/
+https://rogerjtx.github.io/Word2Vector.io/
 
 Topbase Knowledge Graph Paper Reproduction And Technical Documentation  
 url:
