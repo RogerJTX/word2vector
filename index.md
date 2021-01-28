@@ -2,6 +2,41 @@
 
 You can use the [editor on GitHub](https://github.com/RogerJTX/word2vector/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+### Main Notes Websites
+
+
+Main Notes Website  
+url: https://rogerjtx.github.io/
+
+Word2Vector [ELMo, Bert, ALBert]    
+url: https://rogerjtx.github.io/Word2Vector.io/
+
+Topbase Knowledge Graph Paper Reproduction And Technical Documentation  
+url:
+
+Automatic Code Generation  
+url:
+
+Comelot Table Image Recognition   
+url:
+
+Aminer Expert Know Graph  
+url:
+
+Patent Systemt Keyword Extractor    
+url:
+
+
+Image Style Feature Fusion  
+url:
+
+Medical Image Recognition [COVID-19]    
+url:
+
+
+
+
+
 ### Word To Vector Part
 
 # Programming Notes Start
